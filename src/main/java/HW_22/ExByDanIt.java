@@ -30,7 +30,7 @@ public class ExByDanIt {
         WebElement secondElement = driver.findElement(By.className("main-info__title"));
         WebElement firstElement = secondElement.findElement(By.xpath("following-sibling::p[@class='main-info__text']"));
         Thread.sleep(2000);
-        driver.quit();
+         driver.quit();
 
 
     }
