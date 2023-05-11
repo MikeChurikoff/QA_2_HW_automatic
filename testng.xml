@@ -2,7 +2,7 @@
 <suite name="AllTests Suite">
     <test name="AllTestCases">
         <classes>
-           <class name="testng.HW_27.Tasks1_5"/>
+           <class name="HW_27.Tasks1_5"/>
         </classes>
     </test>
 </suite>
